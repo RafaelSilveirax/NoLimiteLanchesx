@@ -94,3 +94,9 @@
 .divrefri img{
     width: 150px;
 }
+
+@media only screen and (max-width:1130px){
+    .divrefri{
+        display: none;
+    }
+}

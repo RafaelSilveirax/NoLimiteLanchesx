@@ -32,6 +32,7 @@ header{
     position: relative;
     background-size: 400% 400%;
     animation: change 7s ease-in-out infinite ;   
+    height: 100vh;
 }
 
 footer{
